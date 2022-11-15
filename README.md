@@ -1,6 +1,6 @@
 # Multi-Layer Perceptron (MLP) Classifier
 
-In this notebook, we build a MLP classifier using the **Keras API with TensorFlow 2.0 backend**. The MLP is a Dense or Fully-Connected (FC) neural network. 
+In this notebook, we build a MLP classifier using the **TensorFlow (2.0) Keras API**. The MLP is a Dense or Fully-Connected (FC) neural network. 
 
 We use the MLP classifier to perform multi-class classifcation on the **MNIST handwritten digits** dataset.
 
